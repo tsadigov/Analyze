@@ -1,0 +1,63 @@
+﻿one to one relationship
+create main entity
+create second entity without key
+add association
+add property to second table and map it to foreign key to first
+
+
+
+dependency property -de constructordaki kacinci argumente uygun geldii
+ama bu reflection gerektirir, olushturmakicin.
+
+
+
+
+
+
+
+
+unit of work - deyishiklikleri saxlamalidir. context lusturmali
+
+
+
+statuc extension methodla delete elemekle uow-da register deleted olar
+
+
+
+
+
+
+
+
+
+ A Unit of Work (184) keeps track of all objects read from the database, together with all objects modified in any way. 
+It also handles how updates are made to the database. Instead of the application programmer invoking explicit save methods, the programmer tells the unit of work to commit. 
+That unit of work then sequences all of the appropriate behavior to the database, putting all of the complex commit processing in one place. 
+Unit of Work (184) is an essential pattern whenever the behavioral interactions with the database become awkward.
+
+
+
+Without a Unit of Work (184), typically the domain layer acts as the controller; 
+deciding when to read and write to the database. The Unit of Work (184) results from factoring the database mapping controller behavior into its own object.
+
+
+ keep a record of every row you read in an Identity Map
+
+
+
+
+
+select etdiyinde object olushturmadan once hafizada olup olmamasini kotrol etmek lazim, eger varsa hazir nesneyi don. Imkan varken , nesnenin degisip degismediini de kontrol ede bilirsin.
+
+
+If you issue a query against the database to find all people within a club, remember that any person objects you've added to the club in memory won't get picked up by the query
+
+
+
+
+
+
+
+
+
+instead of newing domain objects use factory to be able to register them as added. Util.New<Account>();

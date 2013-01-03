@@ -1,0 +1,31 @@
+TaxCalculator
+	CalculateTaxFor Order
+		new TaxResut
+
+		foreach GetTaxRules
+			taxitem=taxRule.ApplyTo(Order).InContext(TaxResult)
+			taxresult.merge(taxitem)
+	
+		return taxResult
+
+//------------------------
+
+class TaxResult
+	/* returns merged summary total for each item in the order*/
+	TaxItem List
+	
+	/*stores all initial items unmerged */
+	Log List
+	
+
+//-----------------
+
+class TaxRule
+	applyTo Order inContext taxResult //needs taxResult in case calculation is based on previous tax rule results
+
+
+
+	
+//----------------------
+class TaxLine
+	Amount Money //even if percent was used to calculate this stores the result decimal
