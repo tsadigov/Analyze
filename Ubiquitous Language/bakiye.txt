@@ -1,0 +1,2 @@
+stok bakiyesi
+siparis bakiyesi

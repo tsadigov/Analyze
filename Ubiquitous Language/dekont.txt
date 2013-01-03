@@ -1,0 +1,27 @@
+Bir hesaptan indirilen bir hesaba borç veya alacak yazýlan, genel olarak hesapta harekete sebep olan bir kaydý ilgisine haber vermekte kullanýlan belge, fiþ.
+============
+Dekont, ödenmiþ veya ödenecek olan hesaplarýn dökümü anlamýna gelmektedir. 
+============
+dekont : Fransýzca décompte. Dilimizde sýk kullanýlan bu söz, “ödenmiþ veya ödenecek olan hesaplarýn dökümü, kapatýlan bir hesaptan yapýlacak indirme” anlamlarýnda geçer. Kurulumuz, hesap belgesi sözünün dekont yerine kullanýlabilecek uygun bir karþýlýk olduðunda birleþmiþtir. Örnek: Ödemeyi yaptýktan sonra hesap belgesini bankadan almayý unutmayýn.
+========
+
+Hesap belgesi.
+
+Bir hesaptan indirilen bir hesaba borç veya alacak yazýlan, genel olarak hesapta harekete sebep olan bir kaydý ilgisine haber vermekte kullanýlan belge, fiþ.
+
+Kaynak: http://www.msxlabs.org/forum/x-sozluk/323722-dekont-dekont-nedir-dekont-hakkinda.html#ixzz1NqBShZ74
+===================
+
+
+1 her hangi bir finansal kurumdan yaptiginiz islemin ispati niteliginde alinan belge, kagit parca
+
+
+2 Hesap belges
+
+3 Genellikle bankalar tarafýndan kullanýlan iþletmelerin cari hesap­larýndaki deðiþiklikleri bildiren belgelerdir. Dekontlar, Borç ve Alacak Dekontlarý olmak üzere iki çeþittir.
+
+iþletmenin bankadaki hesabýnda herhangi bir sebeple meydana gelen azalýþ banka tarafýndan iþletmenin hesabýna borç kaydedilir. Bu sebeple, bankanýn bu deðiþiklikle ilgili olarak iþletmeye gönder­diði dekonta BORÇ DEKONTU denmektedir.
+
+Ayný þekilde, iþletmenin bankadaki hesabýnda herhangi bir sebeple meydana gelen artýþ banka tarafýndan iþletmenin hesabýna alacak kaydedilir. Bankanýn bu deðiþiklikle ilgili olarak iþletmeye gönderdiði dekonta ALACAK DEKONTU denir. 
+
+4 Hesaplar arasýndaki hareketi gösteren fiþ yada belgedir. Belli bir hesaptan yapýlan indirmeyle, diðer bir hesaba borç veya alacak yazýlan belge ve fiþ benzeri dökümandýr.

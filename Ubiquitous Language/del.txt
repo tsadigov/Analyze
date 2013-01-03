@@ -1,0 +1,111 @@
+html {
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+
+
+
+
+<meta name="HandheldFriendly" content="true">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width">
+
+
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" 
+content="black">
+  <link rel="apple-touch-startup-image" href="img/l/splash.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ * {
+       -webkit-tap-highlight-color: rgba(0,0,0,0);
+    }
+
+
+.nocallout {-webkit-touch-callout: none;}
+
+
+a08E0000002DuaQ
+
+
+
+
+
+
+
+<sharingModel>ControlledByParent</sharingModel>
+jFI2SCXaon6V96r1xR4M7x37
+chrome:/content/global
+
+
+http://salesforcechannel.com/video/Leveraging-a-Centralized-ERP-fo;All-Videos
+http://salesforcechannel.com/playlist/Develop
+http://salesforcechannel.com/playlist/Building-Applications-with-Forc
+http://salesforcechannel.com/playlist/Adminstration
+http://salesforcechannel.com/playlist/DevTraining
+http://salesforcechannel.com/playlist/Siteforce
+http://salesforcechannel.com/playlist/Administrators
+http://salesforcechannel.com/playlist/Creating-a-Business-Case-for-So
+http://salesforcechannel.com/playlist/DocuSign
+http://salesforcechannel.com/playlist/Russian
+http://salesforcechannel.com/playlist/Small-Business-Track
+http://salesforcechannel.com/playlist/Advanced-Developers-Track
+http://salesforcechannel.com/playlist/Sales-Track
+http://salesforcechannel.com/playlist/Model-Metrics-2
+http://salesforcechannel.com/playlist/Admin-to-Hero-with-Force-com
+http://salesforcechannel.com/video/Admin-to-Hero-with-Force-com-Mo;Admin-Hero
+http://salesforcechannel.com/playlist/Admin-Hero
+-----------------------------------------------------------------------------
+
+gpa persistence baseed app
+
+
+
+-----------------------------------------------------------------------------
+
+salesforce
+
+SOQL innerJoin kullaniyor
+Site guest user icin debug log calistirmak icin once site->public settings->users->guest user sayfasini bir ziyaret etmek lazim
+
+-----------------------------------------------------------------------------
+
+
+
+product asset
+
+asset line item
+line itemse line ne?
+
+a=opportunity product accounta bagli asset
+
+
+asset rakibin de urunlerini tutar
+
+
+hangi contractda hangi productlar 
+hangi ashamada
+
+
+
+trklif asamasinda opportunity product olacak

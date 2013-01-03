@@ -1,0 +1,14 @@
+stokun hareketi zamani anbardan cikarken ve ya anbara girerken kullanilir.
+
+hukuki acidan irsaliye mali tashiyanda bulunmali, ona irsaliyeni tashitan taraf temin ediyor.
+irsaliyyede tashinan mallar listleniyor.
+
+ERP-de irsaliye siparishe baghli (siparish irsaliyeleshiyor) 
+Mali ambarda kabul eden kontrol ediyor , ne miktarda geldiyini yaziyor, eksik kala bilir. 
+Bir kac irsaliyye ayni siparishe baghlana bilir.
+
+satish irsaliyesi
+alish irsaliyyesi
+
+
+

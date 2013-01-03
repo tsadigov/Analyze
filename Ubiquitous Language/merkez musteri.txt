@@ -1,0 +1,3 @@
+muster=>cari
+
+siparisin faturayi odeyen carisi ve mali teslim alacak carisi farkli oldukta,netsisde odeyene merkezMusteri teslim alana subeMusterisi deniliyor

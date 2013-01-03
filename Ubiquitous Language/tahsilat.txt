@@ -1,0 +1,4 @@
+payment
+odeme
+
+nakit, kredi kartiyla ve ya cekle ola bilir. cekle oldugu zaman cekin tarihini kontrol etmek gereke bilir
