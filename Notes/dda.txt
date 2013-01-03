@@ -1,0 +1,24 @@
+The key elements in the DLR that make language interoperability 
+possible are: a common type system that consists of twelve operations, binders, dynamic objects, and an 
+interoperability protocol between binders and dynamic objects.
+
+In the DLR, binders and dynamic objects 
+work together by adhering to a mutual protocol to ensure that objects from different languages 
+interoperate seamlessly
+
+
+
+
+It
+turns out that DynamicMetaObject has two responsibilities. The first is to serve as the base class of the
+classes that implement custom late-binding logic of meta-objects. The second is to carry the result of late
+bindi
+
+
+
+ the overall 
+result of late binding is called a rule and that a rule consists of two parts—the raw late-binding result and 
+the conditions (i.e. restrictions) under which the raw result is valid. That’s exactly why here in the 
+ReturnConstant method you see that when DynamicMetaObject is used to carry the overall result of late 
+binding, the code needs to pass not only the raw late-binding result (i.e., the DLR expression that 
+represents the number 3) but also a restriction to the constructor of DynamicMetaObject.  
